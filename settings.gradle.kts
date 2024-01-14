@@ -13,7 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MediaBoxBasePlugin"
-include(":TestPlugin")
+//include(":TestPlugin")
 val pluginApi = ":MediaBoxPluginApi"
 include(pluginApi)
 project(pluginApi).projectDir = File("./submodules/MediaBoxPlugin/pluginApi")
