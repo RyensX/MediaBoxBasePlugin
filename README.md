@@ -4,7 +4,7 @@
 
 提供基础UI和数据框架，方便快速实现视频插件
 
-详细使用例子见[这咯](https://github.com/RyensX/CooingPlugin)
+详细使用例子见[这里](https://github.com/RyensX/CooingPlugin)
 
 ## 如何使用
 
