@@ -4,6 +4,8 @@
 
 提供基础UI和数据框架，方便快速实现视频插件
 
+详细使用例子见[这咯](https://github.com/RyensX/CooingPlugin)
+
 ## 如何使用
 
 1. ```git submodule```引入本仓库，具体做法类似[这里](https://github.com/RyensX/MediaBox/wiki/2.%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B#1%E5%88%9D%E5%A7%8B%E5%8C%96%E5%B7%A5%E7%A8%8B)
